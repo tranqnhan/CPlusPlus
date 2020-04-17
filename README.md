@@ -1,30 +1,16 @@
 # CPlusPlus
- 
-This Repo is for students to better organize your work
 
-
-<hr>
-<p>
-------------------------------------------------------------------------<br>
-This is the project README file. Here, you should describe your project.<br>
-Tell the reader (someone who does not know anything about this project)<br>
-all he/she needs to know. The comments should usually include at least:<br>
-------------------------------------------------------------------------</p>
-
-<h2>PROJECT TITLE:</h2>
+<h2>C2&3</h2>
 <hr>
 
-# Lesson Insert Number Here
-<li>PURPOSE OF PROJECT:                              </li>
-<li>VERSION or DATE:                                 </li>
-<li>HOW TO START THIS PROJECT:                       </li>
-<li>AUTHORS:                                         </li>
-<li>USER INSTRUCTIONS:                               </li>
+Chapter 2 and 3
+<li>PURPOSE OF PROJECT: This is chapter 2 and 3 for C++ class. Included are problems 2.1, 2.2, 2.3, 2.4, 2.5, 8, 9, 10.                         </li>
+<li>DATE: 4/17/2020                              </li>
+<li>HOW TO START THIS PROJECT: Just run it in visual studio lol.                 </li>
+<li>AUTHORS: Nhan man                                         </li>
+<li>USER INSTRUCTIONS: Follow the directions on screen when running the project.  </li>
 
-<p>#?  EXAMPLE Insert question you are answering here </p>
-<p>#?  EXAMPLE Insert question you are answering here </p>
-<p>#?  EXAMPLE Insert question you are answering here </p>
-<img src="screenshot.jpg" alt="How to Place A Screen Shot">
+<p>#?  The problems can be found here: https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%202%20and%203 </p>
 
 <hr>
 <p>
