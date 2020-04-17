@@ -1,8 +1,6 @@
 # CPlusPlus
 
-## Project Folder C2&3
-
-### Project Name: Chapter 2 and 3
+### Project: C2&3 - Chapter 2 and 3
 
 <li> PURPOSE OF PROJECT: This is chapter 2 and 3 for C++ class. Included are problems 2.1, 2.2, 2.3, 2.4, 2.5, 8, 9, 10.                         </li>
 <li> DATE: 4/17/2020                              </li>
