@@ -4,7 +4,7 @@
 
 <li> PURPOSE OF PROJECT: This is chapter 2 and 3 for C++ class. Included are problems 2.1, 2.2, 2.3, 2.4, 2.5, 8, 9, 10.                         </li>
 <li> DATE: 4/17/2020                              </li>
-<li> HOW TO START THIS PROJECT: Just run it in visual studio lol.                 </li>
+<li> HOW TO START THIS PROJECT: Copy and paste the file, and just run it in visual studio.                 </li>
 <li> AUTHORS: Nhan man                                         </li>
 <li> USER INSTRUCTIONS: Follow the directions on screen when running the project.  </li>
 
@@ -17,7 +17,7 @@
 
 <li> PURPOSE OF PROJECT: This is chapter 4 and 5 for C++ class.</li>
 <li> DATE: 4/17/2020</li>
-<li> HOW TO START THIS PROJECT: Just run it in visual studio lol.                 </li>
+<li> HOW TO START THIS PROJECT: Copy and paste the file, and just run it in visual studio.                 </li>
 <li> AUTHORS: Nhan man                                         </li>
 <li> USER INSTRUCTIONS: Follow the directions on screen when running the project.  </li>
 
