@@ -25,6 +25,7 @@
 <li> ANSWERS TO PROBLEMS: </li>
 3.1. The three common errors made when writing selection structures are: using compound condition rather than a nested selection structure, reversing the decision outside of the selection structure, and using unnecessary selection structure. <br>
 3.2. Using a compound condition and using unnecessary selection can be inefficiet, but they could also produce the correct results. <br>
-
+3.3. 
+![Door Flowchart](/C4&5/Door Choice Thing.png)
 <hr>
 <p>
