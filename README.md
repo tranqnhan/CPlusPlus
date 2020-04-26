@@ -8,7 +8,7 @@
 <li> AUTHORS: Nhan man                                         </li>
 <li> USER INSTRUCTIONS: Follow the directions on screen when running the project.  </li>
 
-<p>#?  The problems can be found here: https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%202%20and%203 </p>
+<p> The problems can be found here: https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%202%20and%203 </p>
 
 <hr>
 <p>
@@ -21,7 +21,7 @@
 <li> AUTHORS: Nhan man                                         </li>
 <li> USER INSTRUCTIONS: Follow the directions on screen when running the project.  </li>
 
-<p>#?  The problems can be found here: https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%204%20and%205 </p>
+<p> The problems can be found here: https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%204%20and%205 </p>
 
 
 <hr>
