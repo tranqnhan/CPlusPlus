@@ -28,4 +28,6 @@
 3.3. 
 
 <img src="C4A5/DoorFlowchart.png" width=500>
-
+<br>
+3.10. A simulation of the three body problem type of program would prove to be difficult to program without loops. <br>
+3.11. Switch: Advantage - concise, easy to read. Disadvantage - less versatile. If/else: Advantage - more versatile. Disadvantage - Not as concise, can be error prone. <br>
