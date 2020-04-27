@@ -21,7 +21,7 @@
 <li> AUTHORS: Nhan man                                         </li>
 <li> USER INSTRUCTIONS: Follow the directions on screen when running the project.  </li>
 
-<p> The problems can be found here: https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%204%20and%205 </p>
+<li> The problems can be found here: https://github.com/WestCplusplus/CIS-161-Cplusplus/tree/master/Home%20Work/Chapter%204%20and%205 </li>
 <li> ANSWERS TO PROBLEMS: </li>
 3.1. The three common errors made when writing selection structures are: using compound condition rather than a nested selection structure, reversing the decision outside of the selection structure, and using unnecessary selection structure. <br>
 3.2. Using a compound condition and using unnecessary selection can be inefficiet, but they could also produce the correct results. <br>
