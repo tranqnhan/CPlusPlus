@@ -31,6 +31,6 @@
 <br>
 3.10. A simulation of the three body problem type of program would prove to be difficult to program without loops. <br>
 3.11. Switch: Advantage - concise, easy to read. Disadvantage - less versatile. If/else: Advantage - more versatile. Disadvantage - Not as concise, can be error prone. <br>
-3.12. A while loop can be use when you do not know how many times the program will run. A do while always run the program at least once which can lead to unexpected results. <br>
+3.12. A while loop can be use when you do not know how many times the program will run. A do while loop always run the program at least once. <br>
 3.13. A browser chess game benefit greatly from a game loop. We can check that while a checkmate haven't been given, the game keep going. <br>
 3.14. Infinite loops are considered bad because it can lead to difficult debugging. If a program runs constantly without any checks, it could fill up the memory allocated and crash the program. <br>
